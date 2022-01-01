@@ -1,1 +1,1 @@
-IIT-codes
+A compilation of the codes I'm working on from the IIT course I'm doing. All credit to the questions go to IIT themselves (pls don't sue). This is just for me to look back onto in a few years time and see how far I've come :)
